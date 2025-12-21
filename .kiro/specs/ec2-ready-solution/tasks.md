@@ -9,7 +9,7 @@
 
 - [ ] 2. Create Application Load Balancer module
   - [ ] 2.1 Implement ALB module with multi-AZ deployment
-    - Create new ALB module with load balancer resource
+    - Create new ALB module with loasd balancer resource
     - Configure target groups with health check settings
     - Implement security groups for load balancer access
     - _Requirements: 3.1, 3.3_
